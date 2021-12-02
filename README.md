@@ -6,6 +6,8 @@
 -->
 About Me:
 
+Being able to solve real world issues using tech is a big motivator for me.Active involvement in being part of a solution using my passion is the thrusting force to my work as i work to become better.
+
 - 🔭 I’m currently working on Python and javascript
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on web projects
