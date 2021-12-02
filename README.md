@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about Tech
 - 📫 How to reach me: Mugambi645@gmail.com
-- ⚡ Fun fact: Coding is like addictive
+- ⚡ Fun fact: Coding is an hobby
 
