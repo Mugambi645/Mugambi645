@@ -10,11 +10,11 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 🔭 Languages
 
--Python
-- javaScript
-- TypesScript
-- Rust
-- Golang
+ Python
+ javaScript
+ TypesScript
+ Rust
+ Golang
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about Tech
 - 📫 How to reach me: Mugambi645@gmail.com
