@@ -13,7 +13,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Python
  - javaScript
  - TypeScript
- - Golang
+ - Html5
 # 💬 Ask me about Tech
 - 📫 How to reach me: Mugambi645@gmail.com
 - ⚡ Fun fact: Coding is an hobby
