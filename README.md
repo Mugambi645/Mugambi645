@@ -15,7 +15,6 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - TypeScript
  - Html5
  - Kotlin
- - Rust
 # 💬 Ask me about Tech
 - 📫 How to reach me: Mugambi645@gmail.com
 - ⚡ Fun fact: Coding is an hobby
