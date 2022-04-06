@@ -14,7 +14,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - javaScript
  - TypeScript
  - Html5
- - Golang
+
 
 # 💬 Ask me about Tech
 - 📫 How to reach me: Mugambi645@gmail.com
