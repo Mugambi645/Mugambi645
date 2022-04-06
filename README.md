@@ -11,9 +11,9 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 # 🔭 Languages
 
  - Python
- - javaScript
+ - JavaScript
  - TypeScript
- - Html5
+ - Golang
 
 
 # 💬 Ask me about Tech
