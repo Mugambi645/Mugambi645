@@ -14,7 +14,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - JavaScript
  - TypeScript
  - PHP
- - Golang
+ - Rust
  
 
 
