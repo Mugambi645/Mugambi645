@@ -18,5 +18,4 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
-- ⚡ Fun fact: Coding is just like art,a blend of passion and skillset
 
