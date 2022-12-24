@@ -17,6 +17,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Docker
  - Node(Mern)
  - Sql/Mongodb
+ - Rest/Graphql
  
 
 
