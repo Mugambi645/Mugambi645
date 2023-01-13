@@ -12,7 +12,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
  - Python/Django/fastApi
  - Javascript/react/vue/Nextjs
- - Typescript/Angular
+ - Typescript
  - Sanity
  - Docker
  - Electron.js
