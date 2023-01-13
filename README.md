@@ -15,7 +15,6 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Typescript
  - Sanity
  - Docker
- - Electron.js
  - Sql/Mongodb
  - Rest/Graphql
  
