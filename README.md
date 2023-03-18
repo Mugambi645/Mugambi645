@@ -11,7 +11,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 # 🔭 Languages & Technologies
 
  - Python/Django/fastApi
- - Javascript/react/vue/Nextjs
+ - Javascript/react/Nextjs
  - Typescript
  - Sanity
  - Docker
