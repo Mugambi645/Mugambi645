@@ -10,7 +10,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 🔭 Languages & Technologies
 
- - Python/Django/fastApi/Datascience
+ - Python/Django/Datascience
  - Javascript/react/Nextjs
  - Typescript
  - Sanity
