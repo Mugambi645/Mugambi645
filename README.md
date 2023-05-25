@@ -10,13 +10,13 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 🔭 Languages & Technologies
 
- - Python/Django/Datascience/FastApi
+ - Python/Django/Datascience
  - Javascript/react/Nextjs/Vuejs
  - Sanity
  - Docker
  - Sql/Mongodb
  - Rest/Graphql
- 
+ - Java
 
 
 # 💬 Contact me at:
