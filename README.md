@@ -13,6 +13,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Python/Django/FastAPi
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn
+ - R
  - Javascript/Html/Css/React
  - Mlops & LLMS such as openai & HuggingFace
 # 💬 Contact me at:
