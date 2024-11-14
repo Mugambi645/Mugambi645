@@ -10,18 +10,11 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 🔭 Languages & Technologies
 
- - Python/Django/fastapi/Flask
- - Javascript/react/Vuejs
- - Typescript
- - Sanity
- - Docker
- - Sql/Mongodb
- - Rest/Graphql
- - Golang
- - AWS
- - Kubernetes
-
-
+ - Python/Django/FastAPi
+ - Numpy/pandas/matplotlib/seaborn
+ - Pytorch/scikit-learn
+ - Javascript/Html/Css/React
+ - Mlops & LLMS such as openai & HuggingFace
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
