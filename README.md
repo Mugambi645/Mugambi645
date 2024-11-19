@@ -16,6 +16,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - R
  - Javascript/Html/Css/React
  - Mlops & LLMS such as openai & HuggingFace
+ - AWS
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
