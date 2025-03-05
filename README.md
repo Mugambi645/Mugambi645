@@ -10,13 +10,13 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
 # 🔭 Languages & Technologies
 
- - Python/Django/FastAPi
+ - Python/Django
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn
  - R
- - Javascript/Html/Css/React
+ - Javascript/Html/Css/React/Typescript
  - Mlops & LLMS such as openai & HuggingFace
- - AWS
+   
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
