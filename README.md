@@ -17,6 +17,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Javascript/Html/Css/React/Typescript
  - Mlops & LLMS such as openai & HuggingFace
  - Docker/Kubernetes
+ - SQL
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
