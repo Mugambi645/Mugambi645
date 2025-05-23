@@ -18,6 +18,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Mlops & LLMS such as openai & HuggingFace
  - Docker/Kubernetes
  - SQL
+ - R
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
