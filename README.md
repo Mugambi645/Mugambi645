@@ -17,6 +17,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Typescript
  - SQL
  - GraphQl
+ - Data Engineering - Pyspark/Kubernetes/Docker/Airflow/Kafka
 
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
