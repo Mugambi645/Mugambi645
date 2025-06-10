@@ -14,8 +14,9 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn
  - Javascript/Html/Css/React/Express
- - Typescript/Nestjs
+ - Typescript
  - SQL
+ - GraphQl
 
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
