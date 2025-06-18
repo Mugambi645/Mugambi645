@@ -15,7 +15,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Pytorch/scikit-learn
  - Javascript/Html/Css/React/Express
  - Typescript
- - Databases - SQL & MongoDB
+ - Databases - SQL 
  - Data Engineering - Apache Airflow
 
 # 💬 Contact me at:
