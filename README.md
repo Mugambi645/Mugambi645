@@ -17,6 +17,10 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Typescript
  - Databases - SQL & MongoDB
  - Data Engineering - Apache Airflow
+ - Keras
+ - Golang
+ - Rust
+ - Gen AI
 
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
