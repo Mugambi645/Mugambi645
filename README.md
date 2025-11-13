@@ -15,7 +15,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Pytorch/scikit-learn/Keras
  - Javascript/Html/Css/React/Express
  - Typescript
- - Databases - SQL,MongoDB, Postgres & Timescaledb
+ - Databases - SQL,MongoDB, Postgres & Timescaledb, Redis
  - Data Engineering - Apache Airflow,Kafka,Hadoop,Spark, Docker etc
  - Golang/Gin
  - Rust/Axum
