@@ -17,7 +17,6 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Typescript
  - Databases - SQL,MongoDB, Postgres & Timescaledb
  - Data Engineering - Apache Airflow,Kafka,Hadoop,Spark, Docker etc
- - Keras
  - Golang/Gin
  - Rust/Axum
  - Gen AI including Langchain and RAG
