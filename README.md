@@ -12,16 +12,15 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
 
  - Python/Django/fastapi
  - Numpy/pandas/matplotlib/seaborn
- - Pytorch/scikit-learn
+ - Pytorch/scikit-learn/Keras
  - Javascript/Html/Css/React/Express
  - Typescript
- - Databases - SQL & MongoDB
- - Data Engineering - Apache Airflow
+ - Databases - SQL,MongoDB, Postgres & Timescaledb
+ - Data Engineering - Apache Airflow,Kafka,Hadoop,Spark, Docker etc
  - Keras
- - Golang
- - Rust
- - Gen AI
- - Google Cloud(GCP)
+ - Golang/Gin
+ - Rust/Axum
+ - Gen AI including Langchain and RAG
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
