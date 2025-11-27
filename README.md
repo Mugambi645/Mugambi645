@@ -13,13 +13,12 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Python/Django/fastapi
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn/Keras
- - Javascript/Html/Css/React/Express/Threejs/GSAP
+ - Javascript/Html/Css/React/Express
  - Typescript
- - Databases - SQL,MongoDB, Postgres & Timescaledb, Redis
+ - Databases - SQL, Postgres & Timescaledb, Redis
  - Golang/Gin
- - Rust
  - Gen AI including Langchain and RAG
- - Cloud - GCP foundational architect
+ - Cloud - GCP 
 # 💬 Contact me at:
 - 📫 How to reach me: Mugambi645@gmail.com
 
