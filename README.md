@@ -16,7 +16,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Javascript/Html/Css/React/Express
  - Typescript
  - Databases - SQL, Postgres & Timescaledb, Redis
- - Golang/Gin
+ - Golang
  - Gen AI including Langchain and RAG
  - Cloud - GCP 
 # 💬 Contact me at:
