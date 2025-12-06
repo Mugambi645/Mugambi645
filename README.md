@@ -13,10 +13,10 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Python/Django/fastapi
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn/Keras
- - Javascript/Html/Css/React/Express
- - Typescript
- - Databases - SQL, Postgres & Timescaledb, Redis
- - Golang
+ - Javascript/Html/Css/React/Typescript
+ - Databases - SQL, Postgres & Redis
+ - Golang, Rust
+ - Data Engineering - SnowFlake, Pyspark, Mlflow, Celery, RabbitMQ, Databricks
  - Gen AI including Langchain and RAG
  - Cloud - GCP 
 # 💬 Contact me at:
