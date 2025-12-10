@@ -14,7 +14,7 @@ Being able to solve real world issues using tech is a big motivator for me.Activ
  - Numpy/pandas/matplotlib/seaborn
  - Pytorch/scikit-learn/Keras
  - Javascript/Html/Css/React/Typescript
- - Databases - SQL, Postgres & Redis
+ - Databases - SQL, Postgres, Chroma & Redis
  - Golang, Rust
  - Data Engineering - SnowFlake, Pyspark, Mlflow, Celery, RabbitMQ, Databricks
  - Gen AI including Langchain and RAG
